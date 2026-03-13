@@ -1,6 +1,6 @@
 # HexLink
 
-HexLink is a small C++ program that implements a traceable invitation network inspired by the triangle recruitment system.
+HexLink is a small C++ program that implements a traceable invitation network inspired by the Katipunan Triangle System.
 
 Each participant receives a unique 8-digit hexadecimal code.  
 The system allows every participant to invite two additional people, forming a hierarchical invite tree.
