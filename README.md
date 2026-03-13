@@ -55,5 +55,5 @@ Run:
 - Database support
 
 ## Author
-nox ([nox-exe](https://github.com/nox-exe))
+nox ([nox-exe](https://github.com/nox-exe))  
 luca ([carvonkopii](https://github.com/carvonkopii))
