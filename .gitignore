@@ -1,36 +1,36 @@
-# Compiled Object/Library files
-*.d
-*.slo
-*.lo
-*.o
-*.obj
-*.gch
-*.pch
-*.so
-*.dylib
-*.dll
-*.lai
-*.la
-*.a
-*.lib
+# === Build & Binary Folders ===
+build/
+bin/
+obj/
+out/
 
-# Executables
+# === Executables & Libraries ===
 *.exe
 *.out
 *.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
 
-# VS Code & IDEs
+# === Project Data (Local State) ===
+data/users/*.txt
+!data/users/6E053DFE.txt
+data/users/*_track.txt
+
+# === CMake & IDEs ===
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+cmake_install.cmake
 .vscode/
 .history/
 *.log
-
-# Debug and Temp files
 *.pdb
-*.ilk
-*.idb
-build/
-bin/
 
-# OS files
+# === OS Files ===
 .DS_Store
 Thumbs.db
